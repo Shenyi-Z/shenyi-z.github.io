@@ -6,7 +6,7 @@ subtitle: Ph.D. Student @<a href='https://soai.sjtu.edu.cn/'>SAI, Shanghai Jiao 
 
 profile:
   align: right
-  image: daily-photo2.jpg
+  image: daily-photo3.jpg
   image_circular: false # crops the image to make it circular
   more_info: >
     <p>Email: shenyizou@gmail.com</p>
